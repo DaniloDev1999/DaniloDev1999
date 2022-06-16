@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UC4KreQ_VdkJPqV7MC3WNtVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dannyllo_araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/send?phone=5561996269200&text=Ol%c3%a1+!++tudo+bem%3f+seja+bem+vindo+!+" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-da-silva-ara%C3%BAjo-53154a20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/DaniloDev1999/DaniloDev1999/blob/output/github-contribution-grid-snake.svg)
