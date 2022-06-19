@@ -1,4 +1,4 @@
-## Olá , Eu sou o Danilo Araujo !
+## Olá ,Eu sou Danilo Araujo !
 <!---
 DaniloDev1999/DaniloDev1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
